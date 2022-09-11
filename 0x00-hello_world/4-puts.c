@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main prints My first C program that prints
- *programming is like bulding multilingual puzzle
+ * Description: main -prints out a string to stdout
  *return: 0 if success
  */
 int main(void)
