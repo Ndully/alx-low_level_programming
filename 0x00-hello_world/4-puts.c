@@ -4,7 +4,7 @@
  *programming is like bulding multilingual puzzle
  *Return: 0 if success
  */
-int main (void)
+int main(void)
 {
 	puts ("Programming is like buillding a multlingual puzzle");
 
