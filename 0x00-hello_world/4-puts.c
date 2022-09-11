@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
- * My first C program that prints
+ * main prints My first C program that prints
  *programming is like bulding multilingual puzzle
+ *Return: 0 if success
  */
-char main (void)
-{	str="Programming is like buillding a multlingual puzzle
-	puts(str);
+int main (void)
+{
+	puts ("Programming is like buillding a multlingual puzzle");
 
-Return:(0)
+Return:(0);
 
 }
