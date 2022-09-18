@@ -27,7 +27,3 @@ else
 return (0);
 
 }
-
-Footer
-
-
