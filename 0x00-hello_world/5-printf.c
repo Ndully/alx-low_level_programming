@@ -1,5 +1,6 @@
 #include <stdio.h>
-/*main-printing
+/**
+ * main() -printing on stdo
  * Description-print out using printf()
  * return: 0 if successful
  */
