@@ -4,7 +4,7 @@
  *
  * return = 0 if successful
  */
-int main()
+int main(void)
 {char a;
 int b;
 long int c;
