@@ -2,7 +2,7 @@
 #include "main.h"
 #include <time.h>
 /**
- * main - entry point
+ * reset_to_98 - updates the value of point n to 98
  *
  * Return: void
  */
