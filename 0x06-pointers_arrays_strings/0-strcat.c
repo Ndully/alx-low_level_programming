@@ -6,13 +6,12 @@
 
 /**
  * main - concatenate the srings
+ *@dest: copy to
+ *@src: copy from
  *
- ** Return: Always 0.
- *
- */
+ * Return: Always 0
 
-int main(void)
-
+char *_strcat(char *dest, char *src)
 {
 	char s1[4] = src;
 	char s2[5] = dest;
