@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main() - prints size of many variable types
+ * main - prints size of many variable types on screen
  *
- * return = 0 if successful
+ * Return: Always  0 (successful)
  */
 int main(void)
 {
