@@ -1,16 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - printing on stdo
+ * main - prints on screen
+ *
  * @printf: prints out on screen
  *Return: Always 0
  */
-int main(void)
+int main()
 {
-	int a;
-
-	a = with proper grammar, but the outcome is a piece of art,;
-	printf("%s\n", a);
+	printf ("with proper grammar, but the outcome is a piece of art,");
 
 	return (0);
 }
