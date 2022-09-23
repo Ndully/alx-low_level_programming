@@ -5,11 +5,13 @@
  * return = 0 if successful
  */
 int main(void)
-{char a;
-int b;
-long int c;
-long long int d;
-float e;
+{
+	char a;
+	int b;
+	long int c;
+	long long int d;
+	float e;
+
 a = 1;
 b = 4;
 c = 8;
