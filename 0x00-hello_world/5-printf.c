@@ -3,7 +3,6 @@
 /**
  * main - prints a text
  *
- * @printf: prints a text on screen
  *Return: Always 0
  */
 int main(void)
